@@ -1,0 +1,560 @@
+body{
+		background-color:;
+		}
+		#moodlelink{	
+						width:400px;
+						height:50px;
+						background-color:white;
+						position:relative;
+						left:380px;
+						
+						
+						}
+						
+			#check{	width:100%;
+					height:1px;
+					display:flex;
+					justify-content:center;
+					flex-wrap:wrap;
+					background-color:white;
+					font-weight:bold;
+					
+					}
+		
+		
+#head{ width:100% ;
+		height:200px;
+		background-color:white;
+		
+		display:flex;
+		
+		justify-content:center;
+		justify-content:center;
+		align-items:center;
+		
+			
+			}
+		#logo{ background-image:url(https://mitsgwalior.in/img/newsite-logo1.png);
+				
+				
+				width:210px;
+				height:200px;
+				
+					}
+		#namelogo{ background-image:url(https://mitsgwalior.in/img/headimg2019m.png);
+					background-color:pink;
+					
+					width:900px;
+					height:110px;
+					
+					}
+		
+						
+						div div table tr td{ backgroun-color:red;
+												width:60px;}
+						
+		
+		
+	/*drop down list*/
+
+#header{	width:100%;
+			height:50px;
+			background-color:white;
+			display:flex;
+			justify-content:center;
+			}
+#header table tr td{ color:black;
+					text-align:center;	}
+
+#header table tr td::before{display:block;
+							content:'';
+							background-color:pink;
+							height:5px;
+							margin:10px;
+							}
+
+
+/*director message*/
+
+
+			#director{width:100%;
+						Height:500px;
+						background-color:#F8F9FA;
+					  display:flex;
+					
+					  justify-content:center;
+					  margin:10px;
+						align-items:center;
+						
+						}
+			#modify{
+				display:flex;
+				
+				flex-wrap:wrap;
+				
+			}
+
+
+			#directormessage{ background-color:#F8F9FA;
+								margin:10px;
+							   width:300px;
+							   height:300px;
+							   text-align:justify;
+							  
+							  
+							}
+			#animation{background-color:#F8F9FA;
+						background-image:url(https://mitsgwalior.in/login/photo/n5.JPG);
+						background-size:cover;
+							width:580px;
+							  height:320px;
+							margin:10px;
+						animation-name:animation;
+						animation-duration:50s;
+							
+							  background-size:blue;
+							 
+							}
+			#vision{		background-color:#F8F9FA;
+							background-image:url(https://mitsgwalior.in/img/mission2018.png);
+							background-size:cover;
+						margin:10px;
+						
+							width:275px;
+							 height:300px;
+				
+							}
+			
+			
+			
+			
+						
+/*links downloads campous life*/
+
+	#linkdiv{ 	background-color:#F8F9FA;
+				width:100%;
+				height:400px;
+				display:flex;
+				justify-content:center;
+				align-items:center;
+				overflow:hidden;
+				}
+
+	#links{	background-color:#F8F9FA;
+			width:280px;
+			height:340px;
+			margin:10px;
+			
+			
+			}
+	#linkdiv #links table tr td  {  border-radius:5px;
+									font-size:20px;
+								
+									text-decoration:none;
+									
+									}
+
+	#linkdiv #links table tr td a { text-decoration:none;
+									color:black;
+			
+												}
+
+/*capmpuslife*/
+	/*#campuslife{	background-color:red;
+					width:580px;
+					height:370px;
+					margin:10px;
+	}*/
+			#gallery{  background-color:#F8F9FA;
+					width:590px;
+					height:380px;
+					margin-top:10px;
+					display:flex;
+					flex-direction:column;
+					justify-content:center;
+					
+					
+					}
+		
+		
+		#div1{  background-color:#F8F9FA;
+				display:flex;
+				width:100%;
+				height:50px;
+				justify-content:center;
+				align-items:center;
+				
+				}
+				
+				.change{
+				/*background-color:white;*/
+				width:200px;
+				height:30px;
+				border-bottom:none;
+				font-size:15px;
+				color:#1F81B2;
+				border:none;
+				position:relative;
+				top:8px;
+				
+				}
+			
+		#div2{ 
+				background-color:#F8F9FA;
+				width:580px;
+				height:320px;
+			   overflow:auto;
+				
+				}
+		#inner1{ background-color:#F8F9FA;
+		width:580px;
+		height:300px;
+		display:flex;
+		
+		justify-content:center;
+		align-items:center;
+		flex-wrap:wrap;
+				}
+		.pk{background-color:#F8F9FA;
+			width:110px;
+			height:100px;
+			margin:2px;
+			}
+			
+		#inner2{background-color:#F8F9FA;
+		width:580px;
+		height:315px;
+		display:none;
+		display:none;
+		justify-content:center;
+		align-items:center;
+		flex-wrap:wrap;
+				}
+				
+		.pk1{background-color:#F8F9FA;
+			width:200px;
+			height:180px;
+			margin:2px;
+				}
+	#inner3{background-color:#F8F9FA;
+		width:580px;
+		height:315px;
+		display:none;
+		display:none;
+		justify-content:center;
+		align-items:center;
+		flex-wrap:wrap;
+			}
+		.pk2{background-color:pink;
+			width:110px;
+			height:100px;
+			margin:2px;
+				}				
+		#campuslifename {
+			align-items:left;
+			
+			font-size:20px;
+			
+		}			
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+	#downloads {background-color:#F8F9FA;
+				width:275px;
+				height:370px;
+				margin:10px;
+				
+					}
+					
+		#maindownload{ width:275px;
+		height:370px;
+		background-color:#F8F9FA;
+		display:flex;
+		flex-direction:column;
+		
+			
+		}			
+		.down{
+				width:265px;
+				margin-top:10px;
+				height:75px;
+				background-color:#F8F9FA;
+			  display:flex;
+			  justify-content:center;
+			  align-items:center;
+		}
+		#downloadname{
+			font-size:20px;
+		}
+					
+/*highlights*/
+    #highlights{background-color:#F8F9FA; 
+				width:100%;
+				height:350px;
+				display:flex;
+				justify-content:center;
+				
+				
+					}
+	/*	#mainhighlights{ background-color:pink;
+			width:1350px;
+			height:350px;
+			display:flex;
+			justify-content:center;
+			
+		}*/
+		
+		#news{ background-color:#F8F9FA;
+			width:870px;
+			height:350px;
+			
+		}
+		#event{ background-color:white;
+			width:470px;
+			height:350px;
+			margin-top:50px;
+			
+		}
+		#news1{
+			width:740px;
+			height:305px;
+			background-color:#F8F9FA;
+			
+			margin-top:40px;
+			margin-left:100px;
+			display:flex;
+			flex-direction:column;
+			justify-content:center;
+		}
+		#news1div1{
+			background-color:#F8F9FA;
+			width:100%;
+			height:15%;
+		}
+		#news1div2{ background-color:#F8F9FA;
+			width:100%;
+			height:15%;
+			display:flex;
+			justify-content:center;
+			
+			
+		}
+		.btn{width:148px; height:40px;
+		font-weight:bold;
+		color:#1F81B2;
+		
+		border:none;
+		
+		}
+		#news1div3{
+			background-color:#F8F9FA;
+			width:100%;
+			height:70%;
+			overflow:auto;
+		}
+			#news1div3 ol li a{
+				text-decoration:none;
+				color:red;
+				font-size:18px;
+				
+			}
+		#news1div3 ol li{
+			margin-left:28px;
+		margin-top:15px;
+			font-size:20px;
+		}
+		
+		#nptel:hover{ transition :1s;
+			transform:scale(1.2);
+		}
+
+
+
+
+
+		
+	/* activities*/				
+	#activities{background-color:#F8F9FA; 
+				width:100%;
+				height:350px;
+				display:flex;
+				justify-content:center;	
+	}
+	#mainactivities{background-color:#F8F9FA;
+			width:100%;
+			height:350px;
+			display:flex;
+			justify-content:center;
+			
+	}
+		#workshop{ background-color:#F8F9FA;
+			width:877px;
+			height:350px;
+		}
+		#clubs{ background-color:#F8F9FA;
+			width:472px;
+		height:350px;
+		display:flex;
+		justify-content:center;
+		align-items:center;
+		flex-direction:column;
+		
+		}		
+		#workshops {
+			width:740px;
+			height:305px;
+			background-color:#F8F9FA;
+			margin-top:40px;
+			margin-left:100px;
+			display:flex;
+			flex-direction:column;
+			justify-content:center;
+		}			
+					
+					
+		#workshopdiv1{
+			background-color:#F8F9FA;
+			width:100%;
+			height:15%;
+		}
+		#workshopdiv2{ background-color:#F8F9FA;
+			width:100%;
+			height:15%;
+			display:flex;
+			justify-content:center;
+			
+			
+		}
+		.btno{width:185px; height:40px;
+		font-weight:bold;
+		color:#1F81B2;
+		border:none;
+		}
+		#workshopdiv3{
+			background-color:#F8F9FA;
+			width:100%;
+			height:70%;
+			overflow:auto;
+		}	
+		#workshopdiv3 ol li a{
+				text-decoration:none;
+				color:red;
+				font-size:18px;
+				
+			}
+		#workshopdiv3 ol li{
+			margin-left:28px;
+		margin-top:15px;
+			font-size:20px;
+		}
+		
+			#divlist {width:300px;
+			background-color:#F8F9FA;
+						height:300px;
+				font-size:20px;
+				display:flex;
+				overflow:auto;
+				justify-content:center;
+				align-items:center;
+				flex-wrap:wrap;
+				position:relative;
+				right:50px;
+			}		
+					
+			.divlistbutton{
+				margin:5px;
+				width:90px;
+				height:90px;
+				padding:5px;
+			}
+			
+			
+			/*last division*/
+			
+			#lastdiv{
+				background-color:red;
+				width:100%;
+				height:350px;
+				background-image:url(https://images.unsplash.com/photo-1571192776145-9f563c1df686?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+				display:flex;
+				justify-content:center;
+			}
+			#opacity{ height:100%;
+				width:1160px;
+				/*background-color:blue;*/
+				background:rgba(255,255,255,.5);
+				display:flex;
+			}
+			#opacity ul{
+				margin-top:10px;
+				margin-left:25px;
+			}
+			#opacity ul li{
+				padding:10px;
+			}
+			#opacitydiv1{
+				font-weight:bold;
+			}
+			#opacitydiv2{
+				font-weight:bold;
+			}
+			#opacitydiv3 table{margin-top:25px;
+					margin-left:25px;
+			}
+			#opacitydiv3 table tr td img{
+				width:90px;
+				height:70px;
+				padding-top:20px;
+				
+			}	
+			#opacitydiv3 table tr td img:hover{
+				transition:.5s;
+				transform:scale(1.1);
+			}
+			#opacitydiv1 ul li:hover{
+						transition:.5s;
+						color:red;
+			}
+			#opacitydiv2 ul li:hover{transition:.5s;
+						color:red;
+			}
+					
+		@keyframes animation{ 0%{ background-image:url(https://mitsgwalior.in/gallery/455.JPG)}
+								10%{ background-image:url(https://mitsgwalior.in/gallery/450.JPG)}
+								20%{ background-image:url(https://mitsgwalior.in/login/photo/n5.JPG)}
+								30%{ background-image:url(https://mitsgwalior.in/login/photo/n10.JPG)}
+								40%{ background-image:url(https://mitsgwalior.in/login/photo/n13.JPG)}
+								50%{ background-image:url(https://mitsgwalior.in/login/photo/n3.JPG)}
+								90%{ background-image:url(https://mitsgwalior.in/gallery/453.JPG)}
+		
+			
+			
+			
+								}			
+					
+					
+					
+					
+					
+					
+	
+		
